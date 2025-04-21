@@ -4,7 +4,7 @@
 Seaborn is a powerful Python visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 ## Installation
-To install Seaborn, use the following command:
+To install Seaborn, use the following  command:
 
 ```bash
 pip install seaborn
